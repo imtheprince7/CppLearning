@@ -6,6 +6,7 @@
         "*.tcc": "cpp",
         "complex": "cpp",
         "functional": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "cmath": "cpp"
     }
 }
