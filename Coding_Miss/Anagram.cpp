@@ -58,6 +58,7 @@ int main(){
         cout<<"Given string follow anagram"<<endl;
     else
         cout<<"Given string doesn't follow anagram"<<endl;
+    cout<<"Let's check the anagram or not this string"
 
 
     return 0;
