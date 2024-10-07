@@ -10,6 +10,9 @@
         "cmath": "cpp",
         "vector": "cpp",
         "format": "cpp",
-        "cctype": "cpp"
+        "cctype": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp"
     }
 }
