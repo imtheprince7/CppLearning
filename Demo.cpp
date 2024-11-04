@@ -50,9 +50,9 @@ int main(){
      cout<<point4.x << " " <<point4.y<<endl;
 
 // Operator overloading  ( * )  DIAGONAL_SUBTRACTION
-     Point point5 = point1.operator- (point2);     
+     Point pt5 = point1.operator- (point2);     
      cout<<"Sum of two points are:"<<endl;
-     cout<<point5.x << " " <<point5.y<<endl;
+     cout<<pt5.x << " " <<pt5.y<<endl;
 
 
     return 0;
