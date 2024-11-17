@@ -31,6 +31,7 @@ int main(){
     vector<int> vectInt ={1, 3, 5, 7, 9, 11, 13, 15};
     vector<double> vectDouble ={2.0, 4.0, 6.0, 8.0, 10.0, 12.0, 14.0, 16.0};
     vector<string> vectString = {"abc", "def", "ghi"};
+    vector<string> vectString = {"abcdefghijkl"};
 
     cout<<addAll(vectInt)<<endl;
     cout<<addAll(vectDouble)<<endl;
